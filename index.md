@@ -15,7 +15,7 @@ author_profile: true
 Masinde Muliro University of Science and Technology( MMUST)
 
 ----
-**Work Experience**
+## **Work Experience**
 ---
 - **Network Operations Center (NOC) Support Engineer** Jamii Telecommunications Limited 
 
@@ -26,7 +26,7 @@ Masinde Muliro University of Science and Technology( MMUST)
 - **ICT attachee** Nairobi City Water and Sewerage Company
 
 ----
-**Certifications**
+## **Certifications**
 ---
 
 -  AWS Cerfied Cloud Practitioner (CCP)
@@ -38,7 +38,7 @@ Masinde Muliro University of Science and Technology( MMUST)
 - Cisco : Network Adresing and Basic troubleshooting
 
  ---
- Skills
+## Skills
  ---
  - Network monitoring and Troubleshooting
  - Routing and Switching
@@ -48,7 +48,7 @@ Masinde Muliro University of Science and Technology( MMUST)
  - SCADA Systems Monitoring and Control
 
  ---
- Projects
+## Projects
  ---
  
  **Design and implementation of a LPG gas leakage detection system**
