@@ -29,23 +29,23 @@ Masinde Muliro University of Science and Technology( MMUST)
 **Certifications**
 ---
 
--  **AWS Cerfied Cloud Practitioner (CCP)**
+-  AWS Cerfied Cloud Practitioner (CCP)
 
-- **Huawei Certified ICT Associate (HCIA)**
+- Huawei Certified ICT Associate (HCIA)
 
-- **Cloud and Network Security Cyber Shujaa)**
+- Cloud and Network Security Cyber Shujaa)
 
-- **Cisco : Network Adresing and Basic troubleshooting**
+- Cisco : Network Adresing and Basic troubleshooting
 
  ---
  Skills
  ---
- - **Network monitoring and Troubleshooting**
- - **Routing and Switching**
- - **Cloud Computing**
- - **Network and Cloud Security**
- - **Linux based Systems**
- - **SCADA Systems Monitoring and Control**
+ - Network monitoring and Troubleshooting
+ - Routing and Switching
+ - Cloud Computing
+ - Network and Cloud Security
+ - Linux based Systems
+ - SCADA Systems Monitoring and Control
 
  ---
  Projects
