@@ -16,7 +16,7 @@
 title: "Sharon Cheluget "
 email: "sharoncheluget64@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Network Engineer | Cloud Enthusiast| Mentor
+  I am a network Engineer with passion for all things cloud and a Mentor
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: sharoncheluget
@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Sharon Cheluget"
-  avatar : "/assets/images/WhatsApp%20Image%202025-10-14%20at%2013.58.23_fb17ccc8.jpg/"
-  bio    : " Network Engineer | Cloud Enthusiast | Mentor  "
+  avatar : "/assets/images/WhatsApp%20Image%202025-10-14%20at%2013.58.23_fb17ccc8.jpg"
+  bio    : " I am a network Engineer with passion for all things cloud and a Mentor"
   links:
     - label: "Linkedln"
       icon: "fas fa-linkedin"
