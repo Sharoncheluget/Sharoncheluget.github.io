@@ -7,7 +7,7 @@ author_profile: true
 ---
 # **Cirriculum Vitae  - Sharon Cheluget**
 ---
-**Education**
+## **Education**
 ---
 
 - **BSc Electrical and Telecommunication Engineering** **-Second Class Honours (Upper Division)**
