@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Sharon Cheluget"
   avatar : "/assets/images/bhttps://github.com/Sharoncheluget/Sharoncheluget.github.io/blob/master/assets/images/WhatsApp%20Image%202025-10-14%20at%2013.58.23_fb17ccc8.jpg"
-  bio    : "Network Engineer | Cloud engineer | Mentor "
+  bio    : "I am a Network engineer with passion for all things networking and cloud computing "
   links:
     - label: "Linkedln"
       icon: "fas fa-linkedin"
@@ -83,7 +83,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Linkedln"
+    - label: "Linkedin"
       icon: "fas fa-linkedin"
       url: "https://linkedin.com/"
 
