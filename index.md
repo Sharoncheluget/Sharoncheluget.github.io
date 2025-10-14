@@ -32,8 +32,8 @@ Masinde Muliro University of Science and Technology( MMUST)
 -  AWS Cerfied Cloud Practitioner (CCP)
 
 - Huawei Certified ICT Associate (HCIA)
-
-- Cloud and Network Security Cyber Shujaa)
+  
+- Cloud and Network Security Cyber Shujaa
 
 - Cisco : Network Adresing and Basic troubleshooting
 
